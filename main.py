@@ -3,11 +3,11 @@ import numpy as np
 # Press ⌃R to execute it or replace it with your code.
 # Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
 # 문단 정렬
-from docx.enum.text import WD_ALIGN_PARAGRAPH
+#from docx.enum.text import WD_ALIGN_PARAGRAPH
 # 문자 스타일 변경
-from docx.enum.style import WD_STYLE_TYPE
+#from docx.enum.style import WD_STYLE_TYPE
 # 가장 기본적인 기능(문서 열기, 저장, 글자 쓰기 등등)
-from docx import Document
+#from docx import Document
 import pandas as pd
 from datetime import datetime, timedelta
 import re
